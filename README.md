@@ -21,3 +21,11 @@ smoke currently
 
  diabetes: 0-no diabetes, 1-has diabetes
 
+4. Risk factors from first physical examination:
+ totChol: Total cholesterol
+ sysBP: Systolic blood pressure
+ diaBP: Diastolic blood pressure
+ BMI: Body Mass Index
+ Heart Rate: Heart rate in bpm
+ Glucose: Glucose level (mg/dL)
+
