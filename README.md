@@ -19,3 +19,4 @@ smoke currently
  prevalentStroke: 0- no prevalence of stroke, 1-has had occurrences of stroke
  prevalentHyp: 0-no prevalence of hypertension, 1-prevalence of hypertension
  diabetes: 0-no diabetes, 1-has diabetes
+
