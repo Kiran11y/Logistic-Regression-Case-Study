@@ -50,3 +50,6 @@ Confusion Matrix
  False Positive Rate
  Classification Report
 
+ ROC_AUC Curve
+6. At last give the Interpretations about what you done for the given 
+challenges.
