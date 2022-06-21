@@ -38,3 +38,15 @@ You have to solve the below given challenges.
 Tree classification algorithms (Sklearn)
 4. Kindly find the best threshold probability using with log loss
 5. Use the Performance Metrics and Write the Observations for every Metric
+
+Confusion Matrix
+ Precision
+ Recall
+ Specificity
+ Sensitivity
+ Accuracy
+ F1-score
+ True Positive Rate
+ False Positive Rate
+ Classification Report
+
