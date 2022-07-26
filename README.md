@@ -31,25 +31,5 @@ smoke currently
 
 Dependent variable:
 TenYearCHD: Ten years Cardio Vascular Disease
-You have to solve the below given challenges. 
-1. Follow the given Notebook and solve each question. 
-2. You have to deal with the Categorical Features.
-3. You have to perform the Model fit using Logistic Regression and Decision 
-Tree classification algorithms (Sklearn)
-4. Kindly find the best threshold probability using with log loss
-5. Use the Performance Metrics and Write the Observations for every Metric
 
-Confusion Matrix
- Precision
- Recall
- Specificity
- Sensitivity
- Accuracy
- F1-score
- True Positive Rate
- False Positive Rate
- Classification Report
 
- ROC_AUC Curve
-6. At last give the Interpretations about what you done for the given 
-challenges.
